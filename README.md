@@ -12,3 +12,6 @@
 | [ICM-20948 9DOF](https://www.adafruit.com/product/4554) | 1 | A 9DOF IMU to get position and motion data | 14.95 |
 | [Linear Output Hall Effect Sensor](https://www.mouser.com/ProductDetail/Texas-Instruments/DRV5053OAQLPGM/?qs=1CfNGUMoiQ%2Fpls9IqGpk2A%3D%3D) | 5 | Hall effect sensors to work in conjunction with the magnets to track position of fingers | 1.24 |
 | Magnets (Which ones TBD) | 5 | To work in conjunction with the hall effect sensors to track position of fingers |
+
+## Magnet Possibilities
+- https://www.digikey.com/en/products/detail/radial-magnets-inc/8193/555328
