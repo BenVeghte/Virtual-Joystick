@@ -4,6 +4,7 @@
 ## Useful Links
 - [Making a custom Teensy HID Joystick](https://blog.hamaluik.ca/posts/making-a-custom-teensy3-hid-joystick/)
 - [HID Report Descriptors Tutorial](https://eleccelerator.com/tutorial-about-usb-hid-report-descriptors)
+- [Magnetic Fields of Cylindrical Bar Magnet](https://demonstrations.wolfram.com/MagneticFieldOfACylindricalBarMagnet/)
 
 ## Bill of Materials
 | Item | Quantity | Description | Individual Price |
@@ -14,4 +15,6 @@
 | Magnets (Which ones TBD) | 5 | To work in conjunction with the hall effect sensors to track position of fingers |
 
 ## Magnet Possibilities
-- https://www.digikey.com/en/products/detail/radial-magnets-inc/8193/555328
+- https://www.digikey.com/en/products/detail/standex-meder-electronics/ALNICO500-2-5X12-7MM/413910
+- https://www.digikey.com/en/products/detail/radial-magnets-inc/9016/5126080 
+- https://www.amazon.com/Bullseye-Office-Cylinder-Magnets-Magnetic/dp/B01BUDVBWG/ref=sr_1_5?dchild=1&keywords=Cylinder+Magnet&qid=1609207386&sr=8-5 
